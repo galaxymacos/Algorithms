@@ -2,12 +2,12 @@
 {
     public class ListNode
     {
-        public int val;
-        public ListNode next;
+        public readonly int Val;
+        public ListNode Next;
 
         public ListNode(int x)
         {
-            val = x;
+            Val = x;
         }
     }
 }
