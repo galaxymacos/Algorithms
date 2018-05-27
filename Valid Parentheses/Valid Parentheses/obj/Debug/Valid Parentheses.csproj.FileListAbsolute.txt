@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Algorithms\Valid Parentheses\Valid Parentheses\bin\Debug\Valid_Parentheses.exe
+C:\Users\galax\RiderProjects\Algorithms\Valid Parentheses\Valid Parentheses\bin\Debug\Valid_Parentheses.pdb
+C:\Users\galax\RiderProjects\Algorithms\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\Valid Parentheses\Valid Parentheses\obj\Debug\Valid_Parentheses.exe
+C:\Users\galax\RiderProjects\Algorithms\Valid Parentheses\Valid Parentheses\obj\Debug\Valid_Parentheses.pdb
