@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b695756e-ae8e-4125-bd61-a664adab4002" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.RemoveDuplicatesfromSortedArray/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.RemoveDuplicatesfromSortedArray/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.RemoveDuplicatesfromSortedArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.RemoveDuplicatesfromSortedArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.RemoveDuplicatesfromSortedArray/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/MyClass.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/TwoPointers.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoveElement/.idea/.idea.RemoveElement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveElement/.idea/.idea.RemoveElement/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <marker date="1527464850630" expanded="true" signature="56:367" ph="{...}" />
+                <marker date="1527464850630" expanded="true" signature="85:365" ph="{...}" />
+                <marker date="1527464850630" expanded="true" signature="138:359" ph="{...}" />
+                <marker date="1527464850630" expanded="true" signature="283:349" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyClass.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/MyClass.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1527464688911" expanded="true" signature="76:1236" ph="{...}" />
+                <marker date="1527464688911" expanded="true" signature="104:1234" ph="{...}" />
+                <marker date="1527464688911" expanded="true" signature="168:629" ph="{...}" />
+                <marker date="1527464688911" expanded="true" signature="308:596" ph="{...}" />
+                <marker date="1527464688911" expanded="true" signature="376:459" ph="{...}" />
+                <marker date="1527464688911" expanded="true" signature="480:582" ph="{...}" />
+                <marker date="1527464688911" expanded="true" signature="685:1218" ph="{...}" />
+                <marker date="1527464688911" expanded="true" signature="817:1186" ph="{...}" />
+                <marker date="1527464688911" expanded="true" signature="932:1151" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoPointers.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/TwoPointers.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <marker date="1527464850619" expanded="true" signature="41:628" ph="{...}" />
+                <marker date="1527464850619" expanded="true" signature="79:626" ph="{...}" />
+                <marker date="1527464850619" expanded="true" signature="179:620" ph="{...}" />
+                <marker date="1527464850619" expanded="true" signature="362:585" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/TwoPointers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/MyClass.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/Program.cs" />
+        <option value="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/MyClass.cs" />
+        <option value="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/TwoPointers.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1188" />
+    <option name="y" value="774" />
+    <option name="width" value="2178" />
+    <option name="height" value="2088" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RemoveDuplicatesfromSortedArray (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RemoveDuplicatesfromSortedArray (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="RemoveDuplicatesfromSortedArray" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/bin/Debug/RemoveDuplicatesfromSortedArray.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b695756e-ae8e-4125-bd61-a664adab4002" name="Default" comment="" />
+      <created>1527462930647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527462930647</updated>
+      <workItem from="1527462933045" duration="1993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1993000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="1719" height="927" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32756326" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" auto_hide="true" id="Run" order="2" weight="0.32291666" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.19401042" visible="true" weight="0.28502706" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.328125" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Structure" order="2" sideWeight="0.80598956" side_tool="true" visible="true" weight="0.28502706" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1527464850630" expanded="true" signature="56:367" ph="{...}" />
+            <marker date="1527464850630" expanded="true" signature="85:365" ph="{...}" />
+            <marker date="1527464850630" expanded="true" signature="138:359" ph="{...}" />
+            <marker date="1527464850630" expanded="true" signature="283:349" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/MyClass.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1527464688911" expanded="true" signature="76:1236" ph="{...}" />
+            <marker date="1527464688911" expanded="true" signature="104:1234" ph="{...}" />
+            <marker date="1527464688911" expanded="true" signature="168:629" ph="{...}" />
+            <marker date="1527464688911" expanded="true" signature="308:596" ph="{...}" />
+            <marker date="1527464688911" expanded="true" signature="376:459" ph="{...}" />
+            <marker date="1527464688911" expanded="true" signature="480:582" ph="{...}" />
+            <marker date="1527464688911" expanded="true" signature="685:1218" ph="{...}" />
+            <marker date="1527464688911" expanded="true" signature="817:1186" ph="{...}" />
+            <marker date="1527464688911" expanded="true" signature="932:1151" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/TwoPointers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1527464850619" expanded="true" signature="41:628" ph="{...}" />
+            <marker date="1527464850619" expanded="true" signature="79:626" ph="{...}" />
+            <marker date="1527464850619" expanded="true" signature="179:620" ph="{...}" />
+            <marker date="1527464850619" expanded="true" signature="362:585" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
