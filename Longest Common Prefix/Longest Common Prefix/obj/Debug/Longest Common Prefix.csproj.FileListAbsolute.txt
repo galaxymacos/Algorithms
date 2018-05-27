@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Algorithms\Longest Common Prefix\Longest Common Prefix\bin\Debug\Longest_Common_Prefix.exe
+C:\Users\galax\RiderProjects\Algorithms\Longest Common Prefix\Longest Common Prefix\bin\Debug\Longest_Common_Prefix.pdb
+C:\Users\galax\RiderProjects\Algorithms\Longest Common Prefix\Longest Common Prefix\obj\Debug\Longest Common Prefix.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\Longest Common Prefix\Longest Common Prefix\obj\Debug\Longest Common Prefix.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\Longest Common Prefix\Longest Common Prefix\obj\Debug\Longest_Common_Prefix.exe
+C:\Users\galax\RiderProjects\Algorithms\Longest Common Prefix\Longest Common Prefix\obj\Debug\Longest_Common_Prefix.pdb

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\galax\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Longest Common Prefix.-1988735594.00" t="ExcludeRecursive" />
+    <e p="C:\Users\galax\RiderProjects\Algorithms\Longest Common Prefix" t="IncludeFlat">
+      <e p="Longest Common Prefix" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BinarySearch.cs" t="Include" />
+        <e p="DivideAndConquer.cs" t="Include" />
+        <e p="HorizontalScanning.cs" t="Include" />
+        <e p="Longest Common Prefix.csproj" t="IncludeRecursive" />
+        <e p="MyClass.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Longest Common Prefix.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
