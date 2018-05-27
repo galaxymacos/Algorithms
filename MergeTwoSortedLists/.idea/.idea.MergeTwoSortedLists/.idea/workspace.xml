@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dcf1200-33cc-4ccf-8740-35ce9e5a0d13" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/MergeTwoSortedLists/Iteration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MergeTwoSortedLists/MyClass.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MergeTwoSortedLists/Recursion.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MergeTwoSortedLists/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MergeTwoSortedLists/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MergeTwoSortedLists/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MergeTwoSortedLists/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MergeTwoSortedLists/ListNode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MergeTwoSortedLists/ListNode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MergeTwoSortedLists/MergeTwoSortedLists.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MergeTwoSortedLists/MergeTwoSortedLists.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MergeTwoSortedLists/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MergeTwoSortedLists/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeTwoSortedLists/Iteration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MergeTwoSortedLists/Iteration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeTwoSortedLists/MyClass.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MergeTwoSortedLists/MyClass.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeTwoSortedLists/Recursion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MergeTwoSortedLists/Recursion.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
                 <marker date="1527445976909" expanded="true" signature="44:167" ph="{...}" />
                 <marker date="1527445976909" expanded="true" signature="73:165" ph="{...}" />
@@ -37,14 +32,15 @@
       <file leaf-file-name="Iteration.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists/Iteration.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="336">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
               <folding>
-                <marker date="1527445968068" expanded="true" signature="29:688" ph="{...}" />
-                <marker date="1527445968068" expanded="true" signature="58:686" ph="{...}" />
-                <marker date="1527445968068" expanded="true" signature="128:680" ph="{...}" />
-                <marker date="1527445968068" expanded="true" signature="270:602" ph="{...}" />
-                <marker date="1527445968068" expanded="true" signature="321:427" ph="{...}" />
-                <marker date="1527445968068" expanded="true" signature="448:554" ph="{...}" />
+                <marker date="1527446457269" expanded="true" signature="29:820" ph="{...}" />
+                <marker date="1527446457269" expanded="true" signature="58:818" ph="{...}" />
+                <marker date="1527446457269" expanded="true" signature="128:812" ph="{...}" />
+                <marker date="1527446457269" expanded="true" signature="338:670" ph="{...}" />
+                <marker date="1527446457269" expanded="true" signature="389:495" ph="{...}" />
+                <marker date="1527446457269" expanded="true" signature="516:622" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -53,46 +49,33 @@
       <file leaf-file-name="Recursion.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists/Recursion.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="144">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
               <folding>
-                <marker date="1527444097405" expanded="true" signature="29:551" ph="{...}" />
-                <marker date="1527444097405" expanded="true" signature="58:549" ph="{...}" />
-                <marker date="1527444097405" expanded="true" signature="135:534" ph="{...}" />
-                <marker date="1527444097405" expanded="true" signature="288:397" ph="{...}" />
-                <marker date="1527444097405" expanded="true" signature="414:523" ph="{...}" />
+                <marker date="1527447959503" expanded="true" signature="29:674" ph="{...}" />
+                <marker date="1527447959503" expanded="true" signature="58:672" ph="{...}" />
+                <marker date="1527447959503" expanded="true" signature="135:657" ph="{...}" />
+                <marker date="1527447959503" expanded="true" signature="353:520" ph="{...}" />
+                <marker date="1527447959503" expanded="true" signature="537:646" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyClass.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MyClass.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists/MyClass.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+            <state relative-caret-position="320">
+              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
               <folding>
-                <marker date="1527442303094" expanded="true" signature="29:1217" ph="{...}" />
-                <marker date="1527442303094" expanded="true" signature="56:1215" ph="{...}" />
-                <marker date="1527442303094" expanded="true" signature="133:1209" ph="{...}" />
-                <marker date="1527442303094" expanded="true" signature="358:1166" ph="{...}" />
-                <marker date="1527442303094" expanded="true" signature="404:566" ph="{...}" />
-                <marker date="1527442303094" expanded="true" signature="603:765" ph="{...}" />
-                <marker date="1527442303094" expanded="true" signature="807:969" ph="{...}" />
-                <marker date="1527442303094" expanded="true" signature="990:1152" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListNode.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists/ListNode.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-              <folding>
-                <marker date="1527442080270" expanded="true" signature="29:207" ph="{...}" />
-                <marker date="1527442080270" expanded="true" signature="57:205" ph="{...}" />
-                <marker date="1527442080270" expanded="true" signature="158:199" ph="{...}" />
+                <marker date="1527448168952" expanded="true" signature="29:1311" ph="{...}" />
+                <marker date="1527448168952" expanded="true" signature="56:1309" ph="{...}" />
+                <marker date="1527448168952" expanded="true" signature="133:1303" ph="{...}" />
+                <marker date="1527448168952" expanded="true" signature="412:1260" ph="{...}" />
+                <marker date="1527448168952" expanded="true" signature="458:660" ph="{...}" />
+                <marker date="1527448168952" expanded="true" signature="697:859" ph="{...}" />
+                <marker date="1527448168952" expanded="true" signature="901:1063" ph="{...}" />
+                <marker date="1527448168952" expanded="true" signature="1084:1246" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -115,9 +98,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/MergeTwoSortedLists/ListNode.cs" />
-        <option value="$PROJECT_DIR$/MergeTwoSortedLists/Recursion.cs" />
         <option value="$PROJECT_DIR$/MergeTwoSortedLists/Program.cs" />
         <option value="$PROJECT_DIR$/MergeTwoSortedLists/Iteration.cs" />
+        <option value="$PROJECT_DIR$/MergeTwoSortedLists/Recursion.cs" />
+        <option value="$PROJECT_DIR$/MergeTwoSortedLists/MyClass.cs" />
       </list>
     </option>
   </component>
@@ -131,7 +115,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-14" />
+    <option name="x" value="1192" />
+    <option name="y" value="776" />
     <option name="width" value="2178" />
     <option name="height" value="2088" />
   </component>
@@ -207,12 +192,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527438838216</updated>
       <workItem from="1527438840589" duration="2437000" />
-      <workItem from="1527441366693" duration="3475000" />
+      <workItem from="1527441366693" duration="5754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5912000" />
+    <option name="totallyTimeSpent" value="8191000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -224,7 +209,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1719" height="927" extended-state="7" />
+    <frame x="-6" y="0" width="1719" height="927" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -236,10 +221,10 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="14" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.19256309" visible="true" weight="0.28803366" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.19256309" visible="true" weight="0.28803366" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info id="Structure" order="2" sideWeight="0.80743694" side_tool="true" visible="true" weight="0.28803366" />
+      <window_info active="true" id="Structure" order="2" sideWeight="0.80743694" side_tool="true" visible="true" weight="0.28803366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -284,36 +269,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists/MyClass.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-          <folding>
-            <marker date="1527442303094" expanded="true" signature="29:1217" ph="{...}" />
-            <marker date="1527442303094" expanded="true" signature="56:1215" ph="{...}" />
-            <marker date="1527442303094" expanded="true" signature="133:1209" ph="{...}" />
-            <marker date="1527442303094" expanded="true" signature="358:1166" ph="{...}" />
-            <marker date="1527442303094" expanded="true" signature="404:566" ph="{...}" />
-            <marker date="1527442303094" expanded="true" signature="603:765" ph="{...}" />
-            <marker date="1527442303094" expanded="true" signature="807:969" ph="{...}" />
-            <marker date="1527442303094" expanded="true" signature="990:1152" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists/Recursion.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1527444097405" expanded="true" signature="29:551" ph="{...}" />
-            <marker date="1527444097405" expanded="true" signature="58:549" ph="{...}" />
-            <marker date="1527444097405" expanded="true" signature="135:534" ph="{...}" />
-            <marker date="1527444097405" expanded="true" signature="288:397" ph="{...}" />
-            <marker date="1527444097405" expanded="true" signature="414:523" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists/ListNode.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -326,16 +281,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists/Iteration.cs">
+    <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists/Recursion.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="144">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding>
-            <marker date="1527445968068" expanded="true" signature="29:688" ph="{...}" />
-            <marker date="1527445968068" expanded="true" signature="58:686" ph="{...}" />
-            <marker date="1527445968068" expanded="true" signature="128:680" ph="{...}" />
-            <marker date="1527445968068" expanded="true" signature="270:602" ph="{...}" />
-            <marker date="1527445968068" expanded="true" signature="321:427" ph="{...}" />
-            <marker date="1527445968068" expanded="true" signature="448:554" ph="{...}" />
+            <marker date="1527447959503" expanded="true" signature="29:674" ph="{...}" />
+            <marker date="1527447959503" expanded="true" signature="58:672" ph="{...}" />
+            <marker date="1527447959503" expanded="true" signature="135:657" ph="{...}" />
+            <marker date="1527447959503" expanded="true" signature="353:520" ph="{...}" />
+            <marker date="1527447959503" expanded="true" signature="537:646" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -343,11 +298,43 @@
     <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
             <marker date="1527445976909" expanded="true" signature="44:167" ph="{...}" />
             <marker date="1527445976909" expanded="true" signature="73:165" ph="{...}" />
             <marker date="1527445976909" expanded="true" signature="126:159" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists/Iteration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <marker date="1527446457269" expanded="true" signature="29:820" ph="{...}" />
+            <marker date="1527446457269" expanded="true" signature="58:818" ph="{...}" />
+            <marker date="1527446457269" expanded="true" signature="128:812" ph="{...}" />
+            <marker date="1527446457269" expanded="true" signature="338:670" ph="{...}" />
+            <marker date="1527446457269" expanded="true" signature="389:495" ph="{...}" />
+            <marker date="1527446457269" expanded="true" signature="516:622" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists/MyClass.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <marker date="1527448168952" expanded="true" signature="29:1311" ph="{...}" />
+            <marker date="1527448168952" expanded="true" signature="56:1309" ph="{...}" />
+            <marker date="1527448168952" expanded="true" signature="133:1303" ph="{...}" />
+            <marker date="1527448168952" expanded="true" signature="412:1260" ph="{...}" />
+            <marker date="1527448168952" expanded="true" signature="458:660" ph="{...}" />
+            <marker date="1527448168952" expanded="true" signature="697:859" ph="{...}" />
+            <marker date="1527448168952" expanded="true" signature="901:1063" ph="{...}" />
+            <marker date="1527448168952" expanded="true" signature="1084:1246" ph="{...}" />
           </folding>
         </state>
       </provider>

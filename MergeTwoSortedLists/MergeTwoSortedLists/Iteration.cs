@@ -7,7 +7,7 @@
             ListNode prehead = new ListNode(-1);
             ListNode prev = prehead;
 
-            while (l1 != null && l2 != null)
+            while (l1 != null && l2 != null) // Append the smaller node to prev.Next until a linkedlist is empty
             {
                 if (l1.Val < l2.Val)
                 {
@@ -22,7 +22,7 @@
                 prev = prev.Next;
             }
 
-            prev.Next = l1 ?? l2;
+            prev.Next = l1 ?? l2;    // append the other non-empty linkedlist to the head of prev
             return prehead.Next;
         }
     }

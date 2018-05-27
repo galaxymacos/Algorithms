@@ -8,10 +8,12 @@
                 return l2;
             if (l2 == null)
                 return l1;
-            if (l1.Val < l2.Val)
+            
+            // compare the head of two ListNodes
+            if (l1.Val < l2.Val)   
             {
-                l1.Next = MergeTwoLists(l1.Next, l2);
-                return l1;
+                l1.Next = MergeTwoLists(l1.Next, l2);    
+                return l1;    // l1 info = (l1.val) + MergeTwoLists(l1.Next, l2)
             }
             else
             {

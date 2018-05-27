@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Algorithms\RemoveElement\RemoveElement\bin\Debug\RemoveElement.exe
+C:\Users\galax\RiderProjects\Algorithms\RemoveElement\RemoveElement\bin\Debug\RemoveElement.pdb
+C:\Users\galax\RiderProjects\Algorithms\RemoveElement\RemoveElement\obj\Debug\RemoveElement.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\RemoveElement\RemoveElement\obj\Debug\RemoveElement.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\RemoveElement\RemoveElement\obj\Debug\RemoveElement.exe
+C:\Users\galax\RiderProjects\Algorithms\RemoveElement\RemoveElement\obj\Debug\RemoveElement.pdb
