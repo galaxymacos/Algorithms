@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Algorithms\Plus One In Array\Plus One In Array\bin\Debug\Plus_One_In_Array.exe
+C:\Users\galax\RiderProjects\Algorithms\Plus One In Array\Plus One In Array\bin\Debug\Plus_One_In_Array.pdb
+C:\Users\galax\RiderProjects\Algorithms\Plus One In Array\Plus One In Array\obj\Debug\Plus One In Array.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\Plus One In Array\Plus One In Array\obj\Debug\Plus One In Array.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\Plus One In Array\Plus One In Array\obj\Debug\Plus_One_In_Array.exe
+C:\Users\galax\RiderProjects\Algorithms\Plus One In Array\Plus One In Array\obj\Debug\Plus_One_In_Array.pdb

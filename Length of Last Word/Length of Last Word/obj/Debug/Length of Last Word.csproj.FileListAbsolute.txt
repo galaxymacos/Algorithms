@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Algorithms\Length of Last Word\Length of Last Word\bin\Debug\Length_of_Last_Word.exe
+C:\Users\galax\RiderProjects\Algorithms\Length of Last Word\Length of Last Word\bin\Debug\Length_of_Last_Word.pdb
+C:\Users\galax\RiderProjects\Algorithms\Length of Last Word\Length of Last Word\obj\Debug\Length of Last Word.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\Length of Last Word\Length of Last Word\obj\Debug\Length of Last Word.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\Length of Last Word\Length of Last Word\obj\Debug\Length_of_Last_Word.exe
+C:\Users\galax\RiderProjects\Algorithms\Length of Last Word\Length of Last Word\obj\Debug\Length_of_Last_Word.pdb
