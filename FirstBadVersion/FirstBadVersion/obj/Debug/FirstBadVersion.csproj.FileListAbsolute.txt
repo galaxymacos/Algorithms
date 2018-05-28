@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Algorithms\FirstBadVersion\FirstBadVersion\bin\Debug\FirstBadVersion.exe
+C:\Users\galax\RiderProjects\Algorithms\FirstBadVersion\FirstBadVersion\bin\Debug\FirstBadVersion.pdb
+C:\Users\galax\RiderProjects\Algorithms\FirstBadVersion\FirstBadVersion\obj\Debug\FirstBadVersion.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\FirstBadVersion\FirstBadVersion\obj\Debug\FirstBadVersion.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\FirstBadVersion\FirstBadVersion\obj\Debug\FirstBadVersion.exe
+C:\Users\galax\RiderProjects\Algorithms\FirstBadVersion\FirstBadVersion\obj\Debug\FirstBadVersion.pdb

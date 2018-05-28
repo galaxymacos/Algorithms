@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df56b17c-5d6a-4a94-b890-be1fc0747a79" name="Default" comment="" />
+    <list default="true" id="88082919-bdbf-46e7-94eb-dd81c5f6ecf9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../SearchInsertPosition/.idea/.idea.SearchInsertPosition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SearchInsertPosition/.idea/.idea.SearchInsertPosition/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,17 +14,24 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SearchInsertPosition/Program.cs">
+        <entry file="file://$PROJECT_DIR$/FirstBadVersion/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+            <state relative-caret-position="560">
+              <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
               <folding>
-                <marker date="1527465705656" expanded="true" signature="45:553" ph="{...}" />
-                <marker date="1527465705656" expanded="true" signature="80:342" ph="{...}" />
-                <marker date="1527465705656" expanded="true" signature="145:336" ph="{...}" />
-                <marker date="1527465705656" expanded="true" signature="196:293" ph="{...}" />
-                <marker date="1527465705656" expanded="true" signature="374:551" ph="{...}" />
-                <marker date="1527465705656" expanded="true" signature="427:545" ph="{...}" />
+                <marker date="1527468209453" expanded="true" signature="40:1187" ph="{...}" />
+                <marker date="1527468209453" expanded="true" signature="67:1004" ph="{...}" />
+                <marker date="1527468209453" expanded="true" signature="119:174" ph="{...}" />
+                <marker date="1527468209453" expanded="true" signature="224:286" ph="{...}" />
+                <marker date="1527468209453" expanded="true" signature="343:998" ph="{...}" />
+                <marker date="1527468209453" expanded="true" signature="427:687" ph="{...}" />
+                <marker date="1527468209453" expanded="true" signature="495:563" ph="{...}" />
+                <marker date="1527468209453" expanded="true" signature="584:673" ph="{...}" />
+                <marker date="1527468209453" expanded="true" signature="704:988" ph="{...}" />
+                <marker date="1527468209453" expanded="true" signature="773:843" ph="{...}" />
+                <marker date="1527468209453" expanded="true" signature="864:974" ph="{...}" />
+                <marker date="1527468209453" expanded="true" signature="1032:1185" ph="{...}" />
+                <marker date="1527468209453" expanded="true" signature="1085:1179" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -34,12 +43,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/SearchInsertPosition/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstBadVersion/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SearchInsertPosition/Program.cs" />
+        <option value="$PROJECT_DIR$/FirstBadVersion/Program.cs" />
       </list>
     </option>
   </component>
@@ -69,7 +78,7 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="SearchInsertPosition (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="FirstBadVersion (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -98,13 +107,13 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/SearchInsertPosition/bin/Debug/SearchInsertPosition.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FirstBadVersion/bin/Debug/FirstBadVersion.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SearchInsertPosition/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FirstBadVersion/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SearchInsertPosition/SearchInsertPosition.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FirstBadVersion/FirstBadVersion.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -117,17 +126,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="df56b17c-5d6a-4a94-b890-be1fc0747a79" name="Default" comment="" />
-      <created>1527465392179</created>
+      <changelist id="88082919-bdbf-46e7-94eb-dd81c5f6ecf9" name="Default" comment="" />
+      <created>1527465830671</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1527465392179</updated>
-      <workItem from="1527465393295" duration="437000" />
+      <updated>1527465830671</updated>
+      <workItem from="1527465831771" duration="3759000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="437000" />
+    <option name="totallyTimeSpent" value="3759000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -175,17 +184,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SearchInsertPosition/Program.cs">
+    <entry file="file://$PROJECT_DIR$/FirstBadVersion/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        <state relative-caret-position="560">
+          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
           <folding>
-            <marker date="1527465705656" expanded="true" signature="45:553" ph="{...}" />
-            <marker date="1527465705656" expanded="true" signature="80:342" ph="{...}" />
-            <marker date="1527465705656" expanded="true" signature="145:336" ph="{...}" />
-            <marker date="1527465705656" expanded="true" signature="196:293" ph="{...}" />
-            <marker date="1527465705656" expanded="true" signature="374:551" ph="{...}" />
-            <marker date="1527465705656" expanded="true" signature="427:545" ph="{...}" />
+            <marker date="1527468209453" expanded="true" signature="40:1187" ph="{...}" />
+            <marker date="1527468209453" expanded="true" signature="67:1004" ph="{...}" />
+            <marker date="1527468209453" expanded="true" signature="119:174" ph="{...}" />
+            <marker date="1527468209453" expanded="true" signature="224:286" ph="{...}" />
+            <marker date="1527468209453" expanded="true" signature="343:998" ph="{...}" />
+            <marker date="1527468209453" expanded="true" signature="427:687" ph="{...}" />
+            <marker date="1527468209453" expanded="true" signature="495:563" ph="{...}" />
+            <marker date="1527468209453" expanded="true" signature="584:673" ph="{...}" />
+            <marker date="1527468209453" expanded="true" signature="704:988" ph="{...}" />
+            <marker date="1527468209453" expanded="true" signature="773:843" ph="{...}" />
+            <marker date="1527468209453" expanded="true" signature="864:974" ph="{...}" />
+            <marker date="1527468209453" expanded="true" signature="1032:1185" ph="{...}" />
+            <marker date="1527468209453" expanded="true" signature="1085:1179" ph="{...}" />
           </folding>
         </state>
       </provider>
