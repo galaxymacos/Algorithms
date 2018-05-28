@@ -7,20 +7,20 @@ namespace Plus_One_In_Array
         public static int[] PlusOne(int[] digits)
         {
             int n = digits.Length;
-            for (int i = n - 1; i >= 0; i--)
+            for (int i = n - 1; i >= 0; i--)    // loop from the single digit
             {
-                if (digits[i] < 9)
+                if (digits[i] < 9)    // if no need to carry
                 {
-                    digits[i]++;
-                    return digits;
+                    digits[i]++;    // current position will be +=1
+                    return digits;    // Finish
                 }
 
-                digits[i] = 0;
+                digits[i] = 0;    // current position will be 9+1 = 0, carry to the next digit
             }
             
-            int[] newNumber = new int[n+1];
+            // means there are carries from the lowerest digit up to the highest digit (Ex: 9999)
+            var newNumber = new int[n+1];
             newNumber[0] = 1;
-
             return newNumber;
         }
     }
