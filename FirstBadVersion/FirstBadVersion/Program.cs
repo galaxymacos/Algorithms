@@ -1,9 +1,12 @@
 ﻿using System;
 
+// There must be at least one bad version
+
 namespace FirstBadVersion
 {
-    public class MyClass
+    public class DiscussionAnswer
     {
+        // The first bad version should have no bad version before it ( or it is the first version )
         static bool IsBadVersion(int version)
         {
             return (version < 10);
@@ -14,12 +17,12 @@ namespace FirstBadVersion
             return FirstBadVersion(1, n);
         }
 
-        public static int FirstBadVersion(int l, int r)
+        private static int FirstBadVersion(int l, int r)
         {
             int mid = (r - l) / 2 + l;
             if (IsBadVersion(mid))
             {
-                if (!IsBadVersion(mid - 1) || mid == 1)
+                if (!IsBadVersion(mid - 1) || mid == 1)    // If mid is the first bad version
                 {
                     return mid;
                 }
@@ -39,7 +42,7 @@ namespace FirstBadVersion
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(MyClass.FirstBadVersion(100));
+            Console.WriteLine(DiscussionAnswer.FirstBadVersion(100));
         }
     }
 }
