@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Algorithms\SearchInsertPosition\SearchInsertPosition\bin\Debug\SearchInsertPosition.exe
+C:\Users\galax\RiderProjects\Algorithms\SearchInsertPosition\SearchInsertPosition\bin\Debug\SearchInsertPosition.pdb
+C:\Users\galax\RiderProjects\Algorithms\SearchInsertPosition\SearchInsertPosition\obj\Debug\SearchInsertPosition.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\SearchInsertPosition\SearchInsertPosition\obj\Debug\SearchInsertPosition.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\SearchInsertPosition\SearchInsertPosition\obj\Debug\SearchInsertPosition.exe
+C:\Users\galax\RiderProjects\Algorithms\SearchInsertPosition\SearchInsertPosition\obj\Debug\SearchInsertPosition.pdb
