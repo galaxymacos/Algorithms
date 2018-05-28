@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Algorithms\Maximum Subarray\Maximum Subarray\bin\Debug\Maximum_Subarray.exe
+C:\Users\galax\RiderProjects\Algorithms\Maximum Subarray\Maximum Subarray\bin\Debug\Maximum_Subarray.pdb
+C:\Users\galax\RiderProjects\Algorithms\Maximum Subarray\Maximum Subarray\obj\Debug\Maximum Subarray.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\Maximum Subarray\Maximum Subarray\obj\Debug\Maximum Subarray.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\Maximum Subarray\Maximum Subarray\obj\Debug\Maximum_Subarray.exe
+C:\Users\galax\RiderProjects\Algorithms\Maximum Subarray\Maximum Subarray\obj\Debug\Maximum_Subarray.pdb

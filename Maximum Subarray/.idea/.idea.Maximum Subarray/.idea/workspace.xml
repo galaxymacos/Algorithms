@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88082919-bdbf-46e7-94eb-dd81c5f6ecf9" name="Default" comment="" />
+    <list default="true" id="d7f842a9-4a69-4455-899f-d2b4a3deb0eb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Maximum Subarray/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Maximum Subarray/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Maximum Subarray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Maximum Subarray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Maximum Subarray/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maximum Subarray/MyClass.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstBadVersion/.idea/.idea.FirstBadVersion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstBadVersion/.idea/.idea.FirstBadVersion/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,22 +20,34 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FirstBadVersion/Program.cs">
+        <entry file="file://$PROJECT_DIR$/Maximum Subarray/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+            <state relative-caret-position="160">
+              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding>
-                <marker date="1527473319109" expanded="true" signature="83:1176" ph="{...}" />
-                <marker date="1527473319109" expanded="true" signature="119:997" ph="{...}" />
-                <marker date="1527473319109" expanded="true" signature="272:327" ph="{...}" />
-                <marker date="1527473319109" expanded="true" signature="377:439" ph="{...}" />
-                <marker date="1527473319109" expanded="true" signature="497:991" ph="{...}" />
-                <marker date="1527473319109" expanded="true" signature="581:884" ph="{...}" />
-                <marker date="1527473319109" expanded="true" signature="689:757" ph="{...}" />
-                <marker date="1527473319109" expanded="true" signature="778:870" ph="{...}" />
-                <marker date="1527473319109" expanded="true" signature="901:981" ph="{...}" />
-                <marker date="1527473319109" expanded="true" signature="1025:1174" ph="{...}" />
-                <marker date="1527473319109" expanded="true" signature="1078:1168" ph="{...}" />
+                <marker date="1527478191277" expanded="true" signature="41:817" ph="{...}" />
+                <marker date="1527478191277" expanded="true" signature="71:598" ph="{...}" />
+                <marker date="1527478191277" expanded="true" signature="127:592" ph="{...}" />
+                <marker date="1527478191277" expanded="true" signature="418:557" ph="{...}" />
+                <marker date="1527478191277" expanded="true" signature="630:815" ph="{...}" />
+                <marker date="1527478191277" expanded="true" signature="683:809" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyClass.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Maximum Subarray/MyClass.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="89" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
+              <folding>
+                <marker date="1527477578509" expanded="true" signature="26:783" ph="{...}" />
+                <marker date="1527477578509" expanded="true" signature="53:781" ph="{...}" />
+                <marker date="1527477578509" expanded="true" signature="109:775" ph="{...}" />
+                <marker date="1527477578509" expanded="true" signature="308:737" ph="{...}" />
+                <marker date="1527477578509" expanded="true" signature="419:723" ph="{...}" />
+                <marker date="1527477578509" expanded="true" signature="531:628" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -39,12 +59,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/FirstBadVersion/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Maximum Subarray/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Maximum Subarray/MyClass.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FirstBadVersion/Program.cs" />
+        <option value="$PROJECT_DIR$/Maximum Subarray/MyClass.cs" />
+        <option value="$PROJECT_DIR$/Maximum Subarray/Program.cs" />
       </list>
     </option>
   </component>
@@ -63,7 +85,9 @@
     <option name="width" value="2178" />
     <option name="height" value="2088" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -74,7 +98,12 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="FirstBadVersion (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Maximum Subarray (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Maximum Subarray (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Maximum Subarray" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -103,13 +132,13 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/FirstBadVersion/bin/Debug/FirstBadVersion.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Maximum Subarray/bin/Debug/Maximum_Subarray.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FirstBadVersion/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Maximum Subarray/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FirstBadVersion/FirstBadVersion.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Maximum Subarray/Maximum Subarray.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -122,17 +151,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="88082919-bdbf-46e7-94eb-dd81c5f6ecf9" name="Default" comment="" />
-      <created>1527465830671</created>
+      <changelist id="d7f842a9-4a69-4455-899f-d2b4a3deb0eb" name="Default" comment="" />
+      <created>1527474399936</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1527465830671</updated>
-      <workItem from="1527465831771" duration="6625000" />
+      <updated>1527474399936</updated>
+      <workItem from="1527474401038" duration="3037000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6625000" />
+    <option name="totallyTimeSpent" value="3037000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -156,7 +185,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="14" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.19389111" visible="true" weight="0.28502706" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.19389111" visible="true" weight="0.28502706" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="13" weight="0.32898173" />
       <window_info anchor="right" id="Database" order="4" />
@@ -180,22 +209,32 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FirstBadVersion/Program.cs">
+    <entry file="file://$PROJECT_DIR$/Maximum Subarray/MyClass.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        <state relative-caret-position="128">
+          <caret line="8" column="89" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
           <folding>
-            <marker date="1527473319109" expanded="true" signature="83:1176" ph="{...}" />
-            <marker date="1527473319109" expanded="true" signature="119:997" ph="{...}" />
-            <marker date="1527473319109" expanded="true" signature="272:327" ph="{...}" />
-            <marker date="1527473319109" expanded="true" signature="377:439" ph="{...}" />
-            <marker date="1527473319109" expanded="true" signature="497:991" ph="{...}" />
-            <marker date="1527473319109" expanded="true" signature="581:884" ph="{...}" />
-            <marker date="1527473319109" expanded="true" signature="689:757" ph="{...}" />
-            <marker date="1527473319109" expanded="true" signature="778:870" ph="{...}" />
-            <marker date="1527473319109" expanded="true" signature="901:981" ph="{...}" />
-            <marker date="1527473319109" expanded="true" signature="1025:1174" ph="{...}" />
-            <marker date="1527473319109" expanded="true" signature="1078:1168" ph="{...}" />
+            <marker date="1527477578509" expanded="true" signature="26:783" ph="{...}" />
+            <marker date="1527477578509" expanded="true" signature="53:781" ph="{...}" />
+            <marker date="1527477578509" expanded="true" signature="109:775" ph="{...}" />
+            <marker date="1527477578509" expanded="true" signature="308:737" ph="{...}" />
+            <marker date="1527477578509" expanded="true" signature="419:723" ph="{...}" />
+            <marker date="1527477578509" expanded="true" signature="531:628" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Maximum Subarray/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <marker date="1527478191277" expanded="true" signature="41:817" ph="{...}" />
+            <marker date="1527478191277" expanded="true" signature="71:598" ph="{...}" />
+            <marker date="1527478191277" expanded="true" signature="127:592" ph="{...}" />
+            <marker date="1527478191277" expanded="true" signature="418:557" ph="{...}" />
+            <marker date="1527478191277" expanded="true" signature="630:815" ph="{...}" />
+            <marker date="1527478191277" expanded="true" signature="683:809" ph="{...}" />
           </folding>
         </state>
       </provider>
