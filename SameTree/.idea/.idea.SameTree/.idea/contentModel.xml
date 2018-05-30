@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\galax\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_SameTree.1337194924.00" t="ExcludeRecursive" />
+    <e p="C:\Users\galax\RiderProjects\Algorithms\SameTree" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SameTree" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MyClass.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SameTree.csproj" t="IncludeRecursive" />
+        <e p="SimplerRecursion.cs" t="Include" />
+      </e>
+      <e p="SameTree.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

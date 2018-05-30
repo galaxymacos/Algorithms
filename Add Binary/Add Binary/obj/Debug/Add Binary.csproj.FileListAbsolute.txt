@@ -1,0 +1,7 @@
+C:\Users\galax\RiderProjects\Algorithms\Add Binary\Add Binary\bin\Debug\Add Binary.exe.config
+C:\Users\galax\RiderProjects\Algorithms\Add Binary\Add Binary\bin\Debug\Add Binary.exe
+C:\Users\galax\RiderProjects\Algorithms\Add Binary\Add Binary\bin\Debug\Add Binary.pdb
+C:\Users\galax\RiderProjects\Algorithms\Add Binary\Add Binary\obj\Debug\Add Binary.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\Add Binary\Add Binary\obj\Debug\Add Binary.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\Add Binary\Add Binary\obj\Debug\Add Binary.exe
+C:\Users\galax\RiderProjects\Algorithms\Add Binary\Add Binary\obj\Debug\Add Binary.pdb
