@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="209336a1-7ea8-48a0-bd30-aeaed8df68cb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../LongUnivaluePath/.idea/.idea.LongUnivaluePath/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LongUnivaluePath/.idea/.idea.LongUnivaluePath/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LongUnivaluePath/.idea/.idea.LongUnivaluePath/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LongUnivaluePath/.idea/.idea.LongUnivaluePath/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LongUnivaluePath/.idea/.idea.LongUnivaluePath/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Permutation/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Permutation/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Permutation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Permutation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Permutation/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Permutations/.idea/.idea.Permutations/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Permutations/.idea/.idea.Permutations/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Permutations/.idea/.idea.Permutations/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Permutations/.idea/.idea.Permutations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Permutations/.idea/.idea.Permutations/riderModule.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Permutation/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="678">
+              <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+              <folding>
+                <marker date="1527807016387" expanded="true" signature="6:47" ph="..." />
+                <marker date="1527807016387" expanded="true" signature="70:1653" ph="{...}" />
+                <marker date="1527807016387" expanded="true" signature="97:1211" ph="{...}" />
+                <marker date="1527807016387" expanded="true" signature="161:1205" ph="{...}" />
+                <marker date="1527807016387" expanded="true" signature="205:362" ph="{...}" />
+                <marker date="1527807016387" expanded="true" signature="461:524" ph="{...}" />
+                <marker date="1527807016387" expanded="true" signature="745:1167" ph="{...}" />
+                <marker date="1527807016387" expanded="true" signature="823:1153" ph="{...}" />
+                <marker date="1527807016387" expanded="true" signature="956:1044" ph="{...}" />
+                <marker date="1527807016387" expanded="true" signature="1243:1651" ph="{...}" />
+                <marker date="1527807016387" expanded="true" signature="1296:1645" ph="{...}" />
+                <marker date="1527807016387" expanded="true" signature="1452:1635" ph="{...}" />
+                <marker date="1527807016387" expanded="true" signature="1505:1583" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Permutation/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Permutation/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="704" />
+    <option name="y" value="-39" />
+    <option name="width" value="2174" />
+    <option name="height" value="1393" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Permutation (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Permutation/bin/Debug/Permutation.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Permutation/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Permutation/Permutation.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="209336a1-7ea8-48a0-bd30-aeaed8df68cb" name="Default" comment="" />
+      <created>1527804715344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527804715344</updated>
+      <workItem from="1527804716439" duration="1995000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1995000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="1719" height="927" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32756326" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" auto_hide="true" id="Run" order="2" weight="0.32270917" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.19389111" visible="true" weight="0.15754661" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32802126" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Structure" order="2" sideWeight="0.8061089" side_tool="true" visible="true" weight="0.15754661" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Permutation/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding>
+            <marker date="1527807016387" expanded="true" signature="6:47" ph="..." />
+            <marker date="1527807016387" expanded="true" signature="70:1653" ph="{...}" />
+            <marker date="1527807016387" expanded="true" signature="97:1211" ph="{...}" />
+            <marker date="1527807016387" expanded="true" signature="161:1205" ph="{...}" />
+            <marker date="1527807016387" expanded="true" signature="205:362" ph="{...}" />
+            <marker date="1527807016387" expanded="true" signature="461:524" ph="{...}" />
+            <marker date="1527807016387" expanded="true" signature="745:1167" ph="{...}" />
+            <marker date="1527807016387" expanded="true" signature="823:1153" ph="{...}" />
+            <marker date="1527807016387" expanded="true" signature="956:1044" ph="{...}" />
+            <marker date="1527807016387" expanded="true" signature="1243:1651" ph="{...}" />
+            <marker date="1527807016387" expanded="true" signature="1296:1645" ph="{...}" />
+            <marker date="1527807016387" expanded="true" signature="1452:1635" ph="{...}" />
+            <marker date="1527807016387" expanded="true" signature="1505:1583" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
