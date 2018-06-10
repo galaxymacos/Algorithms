@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\galax\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_ClimbingStairs.1091291596.00" t="ExcludeRecursive" />
+    <e p="C:\Users\galax\RiderProjects\Algorithms\ClimbingStairs" t="IncludeFlat">
+      <e p="ClimbingStairs" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ClimbingStairs.csproj" t="IncludeRecursive" />
+        <e p="DynamicProgramming.cs" t="Include" />
+        <e p="FibonacciFormula.cs" t="Include" />
+        <e p="FibonacciNumber.cs" t="Include" />
+        <e p="Memorization.cs" t="Include" />
+        <e p="MyClass.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ClimbingStairs.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Algorithms\ClimbingStairs\ClimbingStairs\bin\Debug\ClimbingStairs.exe
+C:\Users\galax\RiderProjects\Algorithms\ClimbingStairs\ClimbingStairs\bin\Debug\ClimbingStairs.pdb
+C:\Users\galax\RiderProjects\Algorithms\ClimbingStairs\ClimbingStairs\obj\Debug\ClimbingStairs.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\ClimbingStairs\ClimbingStairs\obj\Debug\ClimbingStairs.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\ClimbingStairs\ClimbingStairs\obj\Debug\ClimbingStairs.exe
+C:\Users\galax\RiderProjects\Algorithms\ClimbingStairs\ClimbingStairs\obj\Debug\ClimbingStairs.pdb

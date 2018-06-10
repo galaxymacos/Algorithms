@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Algorithms\CalculateSqrt\CalculateSqrt\bin\Debug\CalculateSqrt.exe
+C:\Users\galax\RiderProjects\Algorithms\CalculateSqrt\CalculateSqrt\bin\Debug\CalculateSqrt.pdb
+C:\Users\galax\RiderProjects\Algorithms\CalculateSqrt\CalculateSqrt\obj\Debug\CalculateSqrt.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\CalculateSqrt\CalculateSqrt\obj\Debug\CalculateSqrt.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\CalculateSqrt\CalculateSqrt\obj\Debug\CalculateSqrt.exe
+C:\Users\galax\RiderProjects\Algorithms\CalculateSqrt\CalculateSqrt\obj\Debug\CalculateSqrt.pdb
