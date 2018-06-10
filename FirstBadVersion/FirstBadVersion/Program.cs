@@ -42,7 +42,7 @@ namespace FirstBadVersion
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(DiscussionAnswer.FirstBadVersion(100));
+            Console.WriteLine("deleted");
         }
     }
 }
