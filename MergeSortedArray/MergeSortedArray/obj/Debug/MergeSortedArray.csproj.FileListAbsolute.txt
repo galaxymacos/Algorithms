@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Algorithms\MergeSortedArray\MergeSortedArray\bin\Debug\MergeSortedArray.exe
+C:\Users\galax\RiderProjects\Algorithms\MergeSortedArray\MergeSortedArray\bin\Debug\MergeSortedArray.pdb
+C:\Users\galax\RiderProjects\Algorithms\MergeSortedArray\MergeSortedArray\obj\Debug\MergeSortedArray.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\MergeSortedArray\MergeSortedArray\obj\Debug\MergeSortedArray.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\MergeSortedArray\MergeSortedArray\obj\Debug\MergeSortedArray.exe
+C:\Users\galax\RiderProjects\Algorithms\MergeSortedArray\MergeSortedArray\obj\Debug\MergeSortedArray.pdb
