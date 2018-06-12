@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace SymmetricTree
 {
@@ -45,13 +46,7 @@ namespace SymmetricTree
             
             if (leftList.Count != rightList.Count)
                 return false;
-            for (int i = 0; i < leftList.Count; i++)
-            {
-                if (leftList[i] != rightList[i])
-                    return false;
-            }
-
-            return true;
+            return !leftList.Where((t, i) => t != rightList[i]).Any();
         }
 
         private List<int> DfsInOrder(TreeNode treeNode)
@@ -69,18 +64,8 @@ namespace SymmetricTree
                     list.Add(0);
                     continue;
                 }
-                if (currentNode.left != null)
-                    treeNodes.Enqueue(currentNode.left);
-                else
-                {
-                    treeNodes.Enqueue(null);
-                }
-                if (currentNode.right != null)
-                    treeNodes.Enqueue(currentNode.right);
-                else
-                {
-                    treeNodes.Enqueue(null);
-                }
+                treeNodes.Enqueue(currentNode.left);
+                treeNodes.Enqueue(currentNode.right);
             }
 
             return list;
@@ -101,19 +86,8 @@ namespace SymmetricTree
                     list.Add(0);
                     continue;
                 }
-
-                if (currentNode.right != null)
-                    treeNodes.Enqueue(currentNode.right);
-                else
-                {
-                    treeNodes.Enqueue(null);
-                }
-                if (currentNode.left != null)
-                    treeNodes.Enqueue(currentNode.left);
-                else
-                {
-                    treeNodes.Enqueue(null);
-                }
+                treeNodes.Enqueue(currentNode.right);
+                treeNodes.Enqueue(currentNode.left);
             }
 
             return list;
@@ -124,9 +98,11 @@ namespace SymmetricTree
     {
         public static void Main(string[] args)
         {
-            TreeNode head = new TreeNode(1);
-            head.left = new TreeNode(2);
-            head.right = new TreeNode(2);
+            TreeNode head = new TreeNode(1)
+            {
+                left = new TreeNode(2),
+                right = new TreeNode(2)
+            };
             head.left.left = new TreeNode(3);
             head.left.right = new TreeNode(4);
             head.right.left = new TreeNode(4);
