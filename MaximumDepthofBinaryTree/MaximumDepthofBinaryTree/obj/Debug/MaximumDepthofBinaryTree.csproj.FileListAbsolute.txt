@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Algorithms\MaximumDepthofBinaryTree\MaximumDepthofBinaryTree\bin\Debug\MaximumDepthofBinaryTree.exe
+C:\Users\galax\RiderProjects\Algorithms\MaximumDepthofBinaryTree\MaximumDepthofBinaryTree\bin\Debug\MaximumDepthofBinaryTree.pdb
+C:\Users\galax\RiderProjects\Algorithms\MaximumDepthofBinaryTree\MaximumDepthofBinaryTree\obj\Debug\MaximumDepthofBinaryTree.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\MaximumDepthofBinaryTree\MaximumDepthofBinaryTree\obj\Debug\MaximumDepthofBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\MaximumDepthofBinaryTree\MaximumDepthofBinaryTree\obj\Debug\MaximumDepthofBinaryTree.exe
+C:\Users\galax\RiderProjects\Algorithms\MaximumDepthofBinaryTree\MaximumDepthofBinaryTree\obj\Debug\MaximumDepthofBinaryTree.pdb

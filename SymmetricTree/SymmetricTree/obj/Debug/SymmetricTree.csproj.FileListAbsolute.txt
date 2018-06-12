@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Algorithms\SymmetricTree\SymmetricTree\bin\Debug\SymmetricTree.exe
+C:\Users\galax\RiderProjects\Algorithms\SymmetricTree\SymmetricTree\bin\Debug\SymmetricTree.pdb
+C:\Users\galax\RiderProjects\Algorithms\SymmetricTree\SymmetricTree\obj\Debug\SymmetricTree.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\SymmetricTree\SymmetricTree\obj\Debug\SymmetricTree.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\SymmetricTree\SymmetricTree\obj\Debug\SymmetricTree.exe
+C:\Users\galax\RiderProjects\Algorithms\SymmetricTree\SymmetricTree\obj\Debug\SymmetricTree.pdb
