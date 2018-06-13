@@ -81,19 +81,21 @@ namespace ConvertSortedArraytoBinarySearchTree
                     return result;
                 }
             }
-            var array = nums.SubArray(nums.Length/2+nums.Length%2 == 1?1:0,nums.Length/2);
-            Console.WriteLine("why");    // TODO
-            foreach (var item in array)
-            {
-                Console.Write(item+" ");
-            }
 
-            Console.WriteLine();
+//            Console.WriteLine("Index is "+(nums.Length/2+(nums.Length%2 == 1?1:0)));
+//            var array = nums.SubArray(nums.Length/2+1,nums.Length/2);
+//            Console.WriteLine("why");    // TODO
+//            foreach (var item in array)
+//            {
+//                Console.Write(item+" ");
+//            }
+
+//            Console.WriteLine();
             TreeNode root =
                 new TreeNode(nums[nums.Length / 2])
                 {
                     left = CreateTree(nums.SubArray(0, nums.Length / 2)),    // [-10,-3]
-                    right = CreateTree(nums.SubArray(nums.Length/2+nums.Length%2 == 1?1:0,nums.Length/2))// [5,9]
+                    right = CreateTree(nums.SubArray(nums.Length/2+1,nums.Length/2-(nums.Length==0?1:1)))// [5,9]
                 };
             return root;
         }
@@ -103,8 +105,8 @@ namespace ConvertSortedArraytoBinarySearchTree
     {
         public static T[] SubArray<T>(this T[] data, int index, int length)
         {
+//            Console.WriteLine("Length is "+length);
             T[] result = new T[length];
-            Console.WriteLine("Length is "+length);
             Array.Copy(data, index, result, 0, length);
             return result;
         }
@@ -115,7 +117,7 @@ namespace ConvertSortedArraytoBinarySearchTree
         public static void Main(string[] args)
         {
             Solution solution = new Solution();
-            int[] arr = {-10,-3,0,5,9};
+            int[] arr = {-1,0,1,2};
             solution.SortedArrayToBST2(arr);
         }
     }
