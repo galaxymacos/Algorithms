@@ -1,4 +1,6 @@
-﻿namespace MaximumDepthofBinaryTree
+﻿using System;
+
+namespace MaximumDepthofBinaryTree
 {
     
   public class TreeNode {
@@ -27,6 +29,14 @@
                 FindMaxDepth(root.left,maxDepth+1);
             if(root.right!=null)
                 FindMaxDepth(root.right,maxDepth+1);
+        }
+    }
+
+    public class OneLineSolution
+    {
+        public int MaxDepth(TreeNode root)
+        {
+            return root == null ? 0 : Math.Max(MaxDepth(root.left), MaxDepth(root.right)) + 1;
         }
     }
     internal class Program
