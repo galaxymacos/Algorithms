@@ -20,8 +20,9 @@ namespace ConvertSortedArraytoBinarySearchTree
                 return null;
             if(nums.Length == 1)
                 return new TreeNode(nums[0]);
-            if(nums.Length == 2)
-                return new TreeNode(nums[0]){right = new TreeNode(nums[1])};
+            // No need to check if nums.length == 2
+//            if(nums.Length == 2)
+//                return new TreeNode(nums[0]){right = new TreeNode(nums[1])};
             int midIndex = nums.Length / 2;
             return new TreeNode(nums[midIndex])
             {
