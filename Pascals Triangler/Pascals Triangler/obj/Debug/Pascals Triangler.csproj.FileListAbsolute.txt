@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Algorithms\Pascals Triangler\Pascals Triangler\bin\Debug\Pascals_Triangler.exe
+C:\Users\galax\RiderProjects\Algorithms\Pascals Triangler\Pascals Triangler\bin\Debug\Pascals_Triangler.pdb
+C:\Users\galax\RiderProjects\Algorithms\Pascals Triangler\Pascals Triangler\obj\Debug\Pascals Triangler.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\Pascals Triangler\Pascals Triangler\obj\Debug\Pascals Triangler.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\Pascals Triangler\Pascals Triangler\obj\Debug\Pascals_Triangler.exe
+C:\Users\galax\RiderProjects\Algorithms\Pascals Triangler\Pascals Triangler\obj\Debug\Pascals_Triangler.pdb
