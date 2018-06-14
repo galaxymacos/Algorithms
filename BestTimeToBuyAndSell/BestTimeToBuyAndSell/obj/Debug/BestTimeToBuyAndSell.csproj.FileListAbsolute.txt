@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Algorithms\BestTimeToBuyAndSell\BestTimeToBuyAndSell\bin\Debug\BestTimeToBuyAndSell.exe
+C:\Users\galax\RiderProjects\Algorithms\BestTimeToBuyAndSell\BestTimeToBuyAndSell\bin\Debug\BestTimeToBuyAndSell.pdb
+C:\Users\galax\RiderProjects\Algorithms\BestTimeToBuyAndSell\BestTimeToBuyAndSell\obj\Debug\BestTimeToBuyAndSell.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\BestTimeToBuyAndSell\BestTimeToBuyAndSell\obj\Debug\BestTimeToBuyAndSell.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\BestTimeToBuyAndSell\BestTimeToBuyAndSell\obj\Debug\BestTimeToBuyAndSell.exe
+C:\Users\galax\RiderProjects\Algorithms\BestTimeToBuyAndSell\BestTimeToBuyAndSell\obj\Debug\BestTimeToBuyAndSell.pdb
