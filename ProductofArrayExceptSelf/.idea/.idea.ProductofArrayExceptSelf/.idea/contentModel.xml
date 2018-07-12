@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\galax\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_ProductofArrayExceptSelf.-1581532845.00" t="ExcludeRecursive" />
+    <e p="F:\RiderProject\Algorithms\ProductofArrayExceptSelf" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ProductofArrayExceptSelf" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="ProductofArrayExceptSelf.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ProductofArrayExceptSelf.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
