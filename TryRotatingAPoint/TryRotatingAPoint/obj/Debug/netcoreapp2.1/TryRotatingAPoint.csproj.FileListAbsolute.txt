@@ -1,0 +1,11 @@
+F:\RiderProject\Algorithms\TryRotatingAPoint\TryRotatingAPoint\bin\Debug\netcoreapp2.1\TryRotatingAPoint.deps.json
+F:\RiderProject\Algorithms\TryRotatingAPoint\TryRotatingAPoint\bin\Debug\netcoreapp2.1\TryRotatingAPoint.runtimeconfig.json
+F:\RiderProject\Algorithms\TryRotatingAPoint\TryRotatingAPoint\bin\Debug\netcoreapp2.1\TryRotatingAPoint.runtimeconfig.dev.json
+F:\RiderProject\Algorithms\TryRotatingAPoint\TryRotatingAPoint\bin\Debug\netcoreapp2.1\TryRotatingAPoint.dll
+F:\RiderProject\Algorithms\TryRotatingAPoint\TryRotatingAPoint\bin\Debug\netcoreapp2.1\TryRotatingAPoint.pdb
+F:\RiderProject\Algorithms\TryRotatingAPoint\TryRotatingAPoint\obj\Debug\netcoreapp2.1\TryRotatingAPoint.csprojAssemblyReference.cache
+F:\RiderProject\Algorithms\TryRotatingAPoint\TryRotatingAPoint\obj\Debug\netcoreapp2.1\TryRotatingAPoint.csproj.CoreCompileInputs.cache
+F:\RiderProject\Algorithms\TryRotatingAPoint\TryRotatingAPoint\obj\Debug\netcoreapp2.1\TryRotatingAPoint.AssemblyInfoInputs.cache
+F:\RiderProject\Algorithms\TryRotatingAPoint\TryRotatingAPoint\obj\Debug\netcoreapp2.1\TryRotatingAPoint.AssemblyInfo.cs
+F:\RiderProject\Algorithms\TryRotatingAPoint\TryRotatingAPoint\obj\Debug\netcoreapp2.1\TryRotatingAPoint.dll
+F:\RiderProject\Algorithms\TryRotatingAPoint\TryRotatingAPoint\obj\Debug\netcoreapp2.1\TryRotatingAPoint.pdb
