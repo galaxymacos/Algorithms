@@ -1,0 +1,9 @@
+F:\RiderProject\Algorithms\MathmaticsFormula\MathmaticsFormula\bin\Debug\MathmaticsFormula.exe
+F:\RiderProject\Algorithms\MathmaticsFormula\MathmaticsFormula\bin\Debug\MathmaticsFormula.pdb
+F:\RiderProject\Algorithms\MathmaticsFormula\MathmaticsFormula\bin\Debug\FormulaLibrary.dll
+F:\RiderProject\Algorithms\MathmaticsFormula\MathmaticsFormula\bin\Debug\FormulaLibrary.pdb
+F:\RiderProject\Algorithms\MathmaticsFormula\MathmaticsFormula\obj\Debug\MathmaticsFormula.csprojAssemblyReference.cache
+F:\RiderProject\Algorithms\MathmaticsFormula\MathmaticsFormula\obj\Debug\MathmaticsFormula.csproj.CoreCompileInputs.cache
+F:\RiderProject\Algorithms\MathmaticsFormula\MathmaticsFormula\obj\Debug\MathmaticsFormula.csproj.CopyComplete
+F:\RiderProject\Algorithms\MathmaticsFormula\MathmaticsFormula\obj\Debug\MathmaticsFormula.exe
+F:\RiderProject\Algorithms\MathmaticsFormula\MathmaticsFormula\obj\Debug\MathmaticsFormula.pdb
